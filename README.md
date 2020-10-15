@@ -7,7 +7,7 @@ This version was created from [@fvrests](https://github.com/fvrests/hyper-rose-p
 ## Installation
 - Open Terminal.app
 - Go to preferences
-- Click on the gear and import this file
+- Click on the gear and import the file
 
 ![Preview](assets/preview.png)
 
