@@ -1,6 +1,13 @@
 ## Rosé Pine
 
 All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
+This version was created from [@fvrests](https://github.com/fvrests/hyper-rose-pine) (by [@fvrests](https://github.com/fvrests)) page for MacOS Terminal.app.
+
+---
+## Installation
+- Open Terminal.app
+- Go to preferences
+- Click on the gear and import this file
 
 ![Preview](assets/preview.png)
 
